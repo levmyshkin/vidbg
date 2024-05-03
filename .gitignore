@@ -83,7 +83,4 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-# Do not version dist
-dist
-
 .DS_Store
